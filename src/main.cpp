@@ -1,6 +1,6 @@
 /*
 This program should count from 0-5 on the top line of the
-LCD continously every 2 seconds
+LCD continously every 2 seconds on a BLUE Background
 
 What one statement must you add to this code to make this happen
 */
